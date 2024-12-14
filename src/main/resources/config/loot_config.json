@@ -1,0 +1,127 @@
+{
+  "biomes": {
+    "minecraft:plains": [
+      "minecraft:chests/village/village_plains_house",
+      "minecraft:chests/simple_dungeon",
+      "cofreprueba:my_plains"
+    ],
+    "minecraft:desert": [
+      "minecraft:chests/desert_pyramid",
+      "cofreprueba:my_desert",
+      "minecraft:chests/village/village_desert_house"
+    ],
+    "minecraft:jungle": [
+      "minecraft:chests/jungle_temple",
+      "cofreprueba:my_jungle"
+    ],
+    "minecraft:swamp": [
+      "cofreprueba:my_swamp"
+    ],
+    "minecraft:badlands": [
+      "minecraft:chests/abandoned_mineshaft",
+      "cofreprueba:my_badlands"
+    ],
+    "minecraft:savanna": [
+      "minecraft:chests/village/village_savanna_house",
+      "cofreprueba:my_savanna"
+    ],
+    "minecraft:taiga": [
+      "minecraft:chests/village/village_taiga_house",
+      "cofreprueba:my_taiga"
+    ],
+    "minecraft:forest": [
+      "minecraft:chests/woodland_mansion",
+      "cofreprueba:my_forest"
+    ],
+    "minecraft:dark_forest": [
+      "minecraft:chests/woodland_mansion",
+      "cofreprueba:my_dark_forest"
+    ],
+    "minecraft:beach": [
+      "minecraft:chests/buried_treasure",
+      "cofreprueba:my_beach"
+    ],
+    "minecraft:river": [
+      "cofreprueba:my_river"
+    ],
+    "minecraft:nether_wastes": [
+      "minecraft:chests/nether_bridge",
+      "cofreprueba:my_nether_wastes"
+    ],
+    "minecraft:crimson_forest": [
+      "minecraft:chests/bastion_treasure",
+      "cofreprueba:my_crimson_forest"
+    ],
+    "minecraft:warped_forest": [
+      "minecraft:chests/bastion_other",
+      "cofreprueba:my_warped_forest"
+    ],
+    "minecraft:soul_sand_valley": [
+      "minecraft:chests/nether_bridge",
+      "cofreprueba:my_soul_sand_valley"
+    ],
+    "minecraft:basalt_deltas": [
+      "minecraft:chests/bastion_bridge",
+      "cofreprueba:my_basalt_deltas"
+    ],
+    "minecraft:end_highlands": [
+      "minecraft:chests/end_city_treasure",
+      "cofreprueba:my_end_highlands"
+    ],
+    "minecraft:end_midlands": [
+      "minecraft:chests/end_city_treasure",
+      "cofreprueba:my_end_midlands"
+    ],
+    "minecraft:small_end_islands": [
+      "minecraft:chests/end_city_treasure",
+      "cofreprueba:my_small_end_islands"
+    ],
+    "minecraft:end_barrens": [
+      "minecraft:chests/end_city_treasure",
+      "cofreprueba:my_end_barrens"
+    ],
+    "minecraft:mushroom_fields": [
+      "cofreprueba:my_mushroom_fields"
+    ],
+    "minecraft:deep_ocean": [
+      "minecraft:chests/shipwreck_treasure",
+      "cofreprueba:my_deep_ocean"
+    ],
+    "minecraft:frozen_ocean": [
+      "minecraft:chests/shipwreck_treasure",
+      "cofreprueba:my_frozen_ocean"
+    ],
+    "minecraft:cold_ocean": [
+      "minecraft:chests/shipwreck_treasure",
+      "cofreprueba:my_frozen_ocean"
+    ],
+    "minecraft:lukewarm_ocean": [
+      "minecraft:chests/shipwreck_treasure",
+      "cofreprueba:my_warm_ocean"
+    ],
+    "minecraft:warm_ocean": [
+      "minecraft:chests/shipwreck_treasure",
+      "cofreprueba:my_warm_ocean"
+    ],
+    "minecraft:stony_shore": [
+      "cofreprueba:my_stony_shore"
+    ],
+    "minecraft:bamboo_jungle": [
+      "cofreprueba:my_bamboo_jungle"
+    ],
+    "minecraft:flower_forest": [
+      "cofreprueba:my_flower_forest"
+    ],
+    "minecraft:grove": [
+      "minecraft:chests/village/village_snowy_house",
+      "cofreprueba:my_grove"
+    ],
+    "minecraft:meadow": [
+      "cofreprueba:my_meadow"
+    ],
+    "minecraft:default": []
+  }
+}
+
+
+

@@ -1,0 +1,50 @@
+plugins {
+    id 'fabric-loom' version '1.1.10'
+
+}
+
+group = 'com.jaco.cofreprueba'
+version = '1.0.0'
+
+repositories {
+    maven {
+        name = 'Fabric'
+        url = 'https://maven.fabricmc.net/'
+    }
+    mavenCentral()
+    google()
+    gradlePluginPortal()
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:1.19.4"
+    mappings "net.fabricmc:yarn:1.19.4+build.2:v2"
+    modImplementation "net.fabricmc:fabric-loader:0.14.21"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:0.87.2+1.19.4"
+    implementation 'com.google.code.gson:gson:2.8.8'
+    modImplementation "com.mojang:brigadier:1.0.18"
+}
+
+processResources {
+    inputs.property "version", project.version
+
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 17
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+    sourceCompatibility = '17'
+    targetCompatibility = '17'
+}
+
+test {
+    useJUnitPlatform()
+}
