@@ -1,5 +1,5 @@
-[19:54:14] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.19.4 with Fabric Loader 0.14.21
-[19:54:15] [main/INFO] (FabricLoader) Loading 43 mods:
+[13:59:08] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.19.4 with Fabric Loader 0.14.21
+[13:59:10] [main/INFO] (FabricLoader) Loading 43 mods:
 	- cofreprueba 1.0.0
 	- fabric-api 0.87.2+1.19.4
 	- fabric-api-base 0.4.28+737a6ee8f4
@@ -43,124 +43,152 @@
 	- fabricloader 0.14.21
 	- java 17
 	- minecraft 1.19.4
-[19:54:16] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Jacky/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[19:54:16] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[19:54:17] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
-[19:54:17] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[19:54:59] [main/INFO] (CofrePruebaMod) Mi mod se ha inicializado
-[19:54:59] [main/INFO] (CofrePruebaMod) Configuración de loot cargada correctamente.
-[19:54:59] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:55:04] [main/INFO] (Minecraft) Loaded 7 recipes
-[19:55:05] [main/INFO] (Minecraft) Loaded 1179 advancements
-[19:55:06] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 63 new biomes in 6.641 ms
-[19:55:06] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.19.4
-[19:55:06] [Server thread/INFO] (Minecraft) Loading properties
-[19:55:06] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[19:55:06] [Server thread/INFO] (Minecraft) Generating keypair
-[19:55:06] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
-[19:55:06] [Server thread/INFO] (Minecraft) Using default channel type
-[19:55:07] [Server thread/INFO] (Minecraft) Preparing level "world"
-[19:55:16] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:21] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:21] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:21] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:23] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:23] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:23] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:23] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:24] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:24] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:25] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:25] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:26] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:26] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
-[19:55:27] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 54%
-[19:55:27] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 54%
-[19:55:28] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 54%
-[19:55:28] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 59%
-[19:55:29] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 68%
-[19:55:29] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 68%
-[19:55:30] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 68%
-[19:55:31] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 68%
-[19:55:31] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 68%
-[19:55:31] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 68%
-[19:55:32] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 70%
-[19:55:32] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 71%
-[19:55:33] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 72%
-[19:55:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 73%
-[19:55:38] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 75%
-[19:55:38] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 76%
-[19:55:39] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 77%
-[19:55:39] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 79%
-[19:55:40] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 80%
-[19:55:40] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 82%
-[19:55:41] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 83%
-[19:55:41] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 83%
-[19:55:42] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 83%
-[19:55:42] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 83%
-[19:55:43] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 83%
-[19:55:43] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 85%
-[19:55:44] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 86%
-[19:55:44] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 86%
-[19:55:45] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 87%
-[19:55:45] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 88%
-[19:55:46] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 89%
-[19:55:46] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 90%
-[19:55:47] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 92%
-[19:55:47] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 93%
-[19:55:48] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 94%
-[19:55:48] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 96%
-[19:55:49] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 97%
-[19:55:49] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 97%
-[19:55:50] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 99%
-[19:55:50] [Server thread/INFO] (Minecraft) Time elapsed: 33780 ms
-[19:55:50] [Server thread/INFO] (Minecraft) Done (43.125s)! For help, type "help"
-[20:05:37] [Server thread/INFO] (Minecraft) com.mojang.authlib.GameProfile@47e68698[id=<null>,name=JacoJeim,properties={},legacy=false] (/192.168.1.16:58925) lost connection: Disconnected
-[20:08:27] [Server thread/INFO] (Minecraft) com.mojang.authlib.GameProfile@645a35ef[id=<null>,name=JacoJeim,properties={},legacy=false] (/127.0.0.1:59023) lost connection: Disconnected
-[20:09:36] [Server thread/INFO] (Minecraft) com.mojang.authlib.GameProfile@74e5caae[id=<null>,name=JacoJeim,properties={},legacy=false] (/127.0.0.1:59179) lost connection: Disconnected
-[20:09:40] [Server thread/INFO] (Minecraft) com.mojang.authlib.GameProfile@195e55e4[id=<null>,name=JacoJeim,properties={},legacy=false] (/127.0.0.1:59181) lost connection: Disconnected
-[20:10:03] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
-[20:14:29] [User Authenticator #1/INFO] (Minecraft) UUID of player Vannyx_ is 80a1a848-e4fc-4914-a022-216c99a3fcf4
-[20:14:30] [Server thread/INFO] (Minecraft) Vannyx_[/192.168.1.14:58987] logged in with entity id 27 at (72.5, 73.0, -104.5)
-[20:14:31] [Server thread/INFO] (Minecraft) Vannyx_ joined the game
-[20:14:32] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
-[20:15:48] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 7017ms or 140 ticks behind
-[20:16:58] [Server thread/INFO] (Minecraft) Unknown or incomplete command, see below for error
-[20:16:58] [Server thread/INFO] (Minecraft) <--[HERE]
-[20:16:59] [Server thread/INFO] (Minecraft) Invalid name or UUID
-[20:16:59] [Server thread/INFO] (Minecraft) ... creative <nombre_del_jugador><--[HERE]
-[20:17:29] [Server thread/INFO] (Minecraft) Unknown or incomplete command, see below for error
-[20:17:29] [Server thread/INFO] (Minecraft) <--[HERE]
-[20:17:30] [Server thread/INFO] (Minecraft) Set Vannyx_'s game mode to Creative Mode
-[20:18:18] [Server thread/INFO] (CofrePruebaMod) Cofre colocado en creativo
-[20:18:18] [Server thread/INFO] (CofrePruebaMod) Asignada loot table [minecraft:chests/simple_dungeon] al cofre en el bioma [minecraft:plains].
-[20:19:11] [Server thread/INFO] (Minecraft) Made Vannyx_ a server operator
-[20:20:21] [Server thread/INFO] (Minecraft) Locating element #c:badlands (minecraft:badlands) took 473 ms
-[20:20:32] [Server thread/INFO] (Minecraft) [Vannyx_: Teleported Vannyx_ to 101.500000, 91.000000, -1225.500000]
-[20:20:34] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[20:20:46] [Server thread/INFO] (CofrePruebaMod) Cofre colocado en creativo
-[20:20:46] [Server thread/INFO] (CofrePruebaMod) Asignada loot table [minecraft:chests/abandoned_mineshaft] al cofre en el bioma [minecraft:badlands].
-[20:20:55] [Server thread/INFO] (CofrePruebaMod) Cofre colocado en creativo
-[20:20:55] [Server thread/INFO] (CofrePruebaMod) Asignada loot table [minecraft:chests/abandoned_mineshaft] al cofre en el bioma [minecraft:badlands].
-[20:21:04] [Server thread/INFO] (CofrePruebaMod) Cofre colocado en creativo
-[20:21:04] [Server thread/INFO] (CofrePruebaMod) Asignada loot table [minecraft:chests/abandoned_mineshaft] al cofre en el bioma [minecraft:badlands].
-[20:21:05] [Server thread/INFO] (CofrePruebaMod) Cofre colocado en creativo
-[20:21:05] [Server thread/INFO] (CofrePruebaMod) Asignada loot table [minecraft:chests/abandoned_mineshaft] al cofre en el bioma [minecraft:badlands].
-[20:21:12] [Server thread/INFO] (Minecraft) Vannyx_ lost connection: Disconnected
-[20:21:12] [Server thread/INFO] (Minecraft) Vannyx_ left the game
+[13:59:11] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Jacky/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[13:59:13] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[13:59:14] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[13:59:14] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[14:00:28] [main/INFO] (ChestMod) ChestMod se ha inicializado
+[14:00:28] [main/INFO] (ChestMod) Configuración de loot cargada correctamente.
+[14:00:29] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:00:41] [main/INFO] (Minecraft) Loaded 7 recipes
+[14:00:43] [main/INFO] (Minecraft) Loaded 1179 advancements
+[14:00:47] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 63 new biomes in 11.31 ms
+[14:00:47] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.19.4
+[14:00:47] [Server thread/INFO] (Minecraft) Loading properties
+[14:00:47] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[14:00:47] [Server thread/INFO] (Minecraft) Generating keypair
+[14:00:47] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
+[14:00:48] [Server thread/INFO] (Minecraft) Using default channel type
+[14:00:51] [Server thread/INFO] (Minecraft) Preparing level "world"
+[14:01:07] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:18] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:19] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:19] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:20] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:21] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:21] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:22] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:22] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:23] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[14:01:23] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 47%
+[14:01:24] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 59%
+[14:01:24] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 63%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:29] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 66%
+[14:01:30] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 68%
+[14:01:30] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:32] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:32] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:33] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:33] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:33] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:33] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:34] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:34] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 73%
+[14:01:35] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 75%
+[14:01:35] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 76%
+[14:01:36] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 86%
+[14:01:36] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 87%
+[14:01:37] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 88%
+[14:01:37] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 88%
+[14:01:38] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 88%
+[14:01:38] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 88%
+[14:01:39] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 89%
+[14:01:39] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 89%
+[14:01:40] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 89%
+[14:01:40] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 90%
+[14:01:41] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 91%
+[14:01:41] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 91%
+[14:01:42] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 91%
+[14:01:42] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 91%
+[14:01:43] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 91%
+[14:01:43] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 93%
+[14:01:44] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 94%
+[14:01:44] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 98%
+[14:01:45] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 98%
+[14:01:45] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 98%
+[14:01:46] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 99%
+[14:01:47] [Server thread/INFO] (Minecraft) Time elapsed: 39293 ms
+[14:01:47] [Server thread/INFO] (Minecraft) Done (55.930s)! For help, type "help"
+[14:04:49] [User Authenticator #1/INFO] (Minecraft) UUID of player Vannyx_ is 80a1a848-e4fc-4914-a022-216c99a3fcf4
+[14:04:50] [Server thread/INFO] (Minecraft) Vannyx_[/192.168.1.14:49881] logged in with entity id 24 at (56.33334867751236, 73.74477145352839, -1399.6393605664707)
+[14:04:50] [Server thread/INFO] (Minecraft) Vannyx_ joined the game
+[14:04:52] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[14:05:11] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 4280ms or 85 ticks behind
+[14:05:30] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:05:30] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_stony_shore] al cofre en el bioma [minecraft:stony_shore].
+[14:06:14] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:06:14] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_stony_shore] al cofre en el bioma [minecraft:stony_shore].
+[14:06:54] [Server thread/INFO] (Minecraft) [Vannyx_: Set the weather to clear]
+[14:07:28] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:07:28] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_stony_shore] al cofre en el bioma [minecraft:stony_shore].
+[14:07:35] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:07:35] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_stony_shore] al cofre en el bioma [minecraft:stony_shore].
+[14:07:45] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:07:45] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_badlands] al cofre en el bioma [minecraft:badlands].
+[14:07:54] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:07:54] [Server thread/INFO] (ChestMod) Asignada loot table [minecraft:chests/abandoned_mineshaft] al cofre en el bioma [minecraft:badlands].
+[14:08:04] [Server thread/INFO] (ChestMod) Configuración de loot cargada correctamente.
+[14:08:04] [Server thread/INFO] (Minecraft) [Vannyx_: Configuración de loot recargada correctamente.]
+[14:08:17] [Server thread/INFO] (Minecraft) [Vannyx_: Set own game mode to Survival Mode]
+[14:08:19] [Server thread/INFO] (ChestMod) Cofre colocado en survival
+[14:08:23] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[14:08:36] [Server thread/INFO] (Minecraft) Vannyx_ was slain by Zombie
+[14:10:28] [Server thread/INFO] (Minecraft) [Vannyx_: Set own game mode to Creative Mode]
+[14:10:33] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:10:33] [Server thread/INFO] (ChestMod) Asignada loot table [minecraft:chests/village/village_plains_house] al cofre en el bioma [minecraft:plains].
+[14:13:50] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:13:50] [Server thread/INFO] (ChestMod) Asignada loot table [minecraft:chests/village/village_plains_house] al cofre en el bioma [minecraft:plains].
+[14:13:59] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:13:59] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_stony_shore] al cofre en el bioma [minecraft:stony_shore].
+[14:14:14] [Server thread/INFO] (Minecraft) Locating element #c:beach (minecraft:stony_shore) took 15 ms
+[14:14:23] [Server thread/INFO] (Minecraft) [Vannyx_: Teleported Vannyx_ to 59.500000, 86.000000, -63.500000]
+[14:14:46] [Server thread/INFO] (Minecraft) Vannyx_ has made the advancement [Acquire Hardware]
+[14:15:26] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:15:26] [Server thread/INFO] (ChestMod) Asignada loot table [minecraft:chests/simple_dungeon] al cofre en el bioma [minecraft:plains].
+[14:15:36] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:15:36] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_stony_shore] al cofre en el bioma [minecraft:stony_shore].
+[14:15:50] [Server thread/INFO] (Minecraft) Locating element minecraft:desert took 676 ms
+[14:15:56] [Server thread/INFO] (Minecraft) [Vannyx_: Teleported Vannyx_ to 174.500000, 79.000000, -1219.500000]
+[14:16:07] [Server thread/INFO] (ChestMod) Cofre colocado en creativo
+[14:16:07] [Server thread/INFO] (ChestMod) Asignada loot table [cofreprueba:my_desert] al cofre en el bioma [minecraft:desert].
+[14:16:17] [Server thread/INFO] (ChestMod) Configuración de loot cargada correctamente.
+[14:16:17] [Server thread/INFO] (Minecraft) [Vannyx_: Configuración de loot recargada correctamente.]
+[14:16:26] [Server thread/INFO] (Minecraft) [Vannyx_: Set own game mode to Survival Mode]
+[14:16:27] [Server thread/INFO] (ChestMod) Cofre colocado en survival
+[14:16:53] [Server thread/INFO] (Minecraft) Vannyx_ lost connection: Disconnected
+[14:16:53] [Server thread/INFO] (Minecraft) Vannyx_ left the game
+[14:26:11] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[14:27:25] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[14:28:48] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
